@@ -1,0 +1,2 @@
+# libimobiledevice_macos
+libimobiledevice_macos
